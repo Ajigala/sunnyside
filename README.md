@@ -67,5 +67,5 @@ I want to continue to practice more on my CSS grid usage. It best for making a w
 ## Author
 
 - Website - Yakubu Ajigala
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ajigala)
+- Frontend Mentor - [ajigala](https://www.frontendmentor.io/profile/Ajigala)
 - Twitter - [@Jacklezz_yakubu](https://www.twitter.com/jacklezz_yakubu)
